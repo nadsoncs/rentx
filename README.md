@@ -40,5 +40,5 @@ in another terminal
 ## Demo
 
 <p aling="center">
-  <img width="460" height="300" src="src/assets/to_readme/demo.gif" >
+  <img width="460" height="300" src="assets/to_readme/demo.gif" >
 </p>
