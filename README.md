@@ -39,6 +39,6 @@ in another terminal
 
 ## Demo
 
-<p aling="center">
-  <img width="460" height="300" src="src/assets/to_readme/demo.gif" >
+<p align="center">
+  <img width="600" height="1300" src="assets/to_readme/demo.gif" >
 </p>
